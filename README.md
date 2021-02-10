@@ -1,0 +1,1 @@
+# static.craft-multi-cn
